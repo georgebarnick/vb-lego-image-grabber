@@ -1,0 +1,10 @@
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Release\LEGO Image Grabber.exe.config
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Release\LEGO Image Grabber.exe
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Release\LEGO Image Grabber.pdb
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Release\LEGO Image Grabber.xml
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\LEGOImageGrabber.Form1.resources
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\LEGOImageGrabber.Resources.resources
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\LEGO Image Grabber.exe
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\LEGO Image Grabber.xml
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Release\LEGO Image Grabber.pdb
