@@ -8,3 +8,13 @@ c:\users\george\documents\visual studio 2013\Projects\WindowsApplication2\Window
 c:\users\george\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
 c:\users\george\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
 c:\users\george\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
