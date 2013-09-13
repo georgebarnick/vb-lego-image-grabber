@@ -1,4 +1,6 @@
-﻿Imports System
+﻿Imports System.Resources
+
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -8,14 +10,14 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WindowsApplication2")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("WindowsApplication2")> 
+<Assembly: AssemblyTitle("LEGO Image Grabber")> 
+<Assembly: AssemblyDescription("Image grabber for LEGO set images")> 
+<Assembly: AssemblyCompany("Brickimedia Association")> 
+<Assembly: AssemblyProduct("LEGO Image Grabber")> 
 <Assembly: AssemblyCopyright("Copyright ©  2013")> 
 <Assembly: AssemblyTrademark("")> 
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(False)> 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("c5196605-97ca-48ad-9713-0b0dabd1065a")> 
@@ -31,5 +33,7 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("1.2.1.0")> 
+<Assembly: AssemblyFileVersion("1.2.1.0")> 
+
+<Assembly: NeutralResourcesLanguageAttribute("en-US")> 
