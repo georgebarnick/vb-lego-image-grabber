@@ -1,0 +1,4 @@
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\bin\Debug\LEGO Image Grabber.exe.config
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\LEGO Image Grabber.exe
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\LEGO Image Grabber.xml
+C:\Users\George\Documents\GitHub\vb-lego-image-grabber\WindowsApplication2\obj\Debug\LEGO Image Grabber.pdb
