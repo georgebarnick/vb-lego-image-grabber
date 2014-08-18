@@ -28,19 +28,20 @@
         System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "_alt1?op_sharpen=1&resMode=sharp4&wid=4000&fit=constrain,1&fmt=png-alpha")
     End Sub
 
-    Private Sub LinkLabel8_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel8.LinkClicked
-        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=500&fit=constrain,1&fmt=png-alpha")
-    End Sub
-
-    Private Sub LinkLabel7_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel7.LinkClicked
-        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=1000&fit=constrain,1&fmt=png-alpha")
+    Private Sub LinkLabel5_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel5.LinkClicked
+        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=4000&fit=constrain,1&fmt=png-alpha")
     End Sub
 
     Private Sub LinkLabel6_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel6.LinkClicked
         System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=2000&fit=constrain,1&fmt=png-alpha")
     End Sub
 
-    Private Sub LinkLabel5_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel5.LinkClicked
-        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=4000&fit=constrain,1&fmt=png-alpha")
+    Private Sub LinkLabel7_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel7.LinkClicked
+        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=1000&fit=constrain,1&fmt=png-alpha")
     End Sub
+
+    Private Sub LinkLabel8_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel8.LinkClicked
+        System.Diagnostics.Process.Start("http://cache.lego.com/r/dynamic/is/image/LEGO/" + TextBox1.Text + "?op_sharpen=1&resMode=sharp4&wid=500&fit=constrain,1&fmt=png-alpha")
+    End Sub
+
 End Class
